@@ -16,3 +16,6 @@
 [submodule "timeseries-graph-learning"]
 	path = timeseries-graph-learning
 	url = git@github.com:KHOUTAIBI/timeseries-graph-learning.git
+[submodule "Representation-Learning-Computer-Vision"]
+	path = Representation-Learning-Computer-Vision
+	url = git@github.com:KHOUTAIBI/Representation-Learning-Computer-Vision.git
