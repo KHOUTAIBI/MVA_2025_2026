@@ -1,0 +1,3 @@
+[submodule "DiffusionPolicy"]
+	path = DiffusionPolicy
+	url = git@github.com:KHOUTAIBI/DiffusionPolicy.git
