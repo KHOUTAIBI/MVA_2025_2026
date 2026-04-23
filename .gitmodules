@@ -19,3 +19,6 @@
 [submodule "Representation-Learning-Computer-Vision"]
 	path = Representation-Learning-Computer-Vision
 	url = git@github.com:KHOUTAIBI/Representation-Learning-Computer-Vision.git
+[submodule "AI-games"]
+	path = AI-games
+	url = git@github.com:KHOUTAIBI/AI-games.git
