@@ -1,3 +1,15 @@
 [submodule "DiffusionPolicy"]
 	path = DiffusionPolicy
 	url = git@github.com:KHOUTAIBI/DiffusionPolicy.git
+[submodule "GenerativeImageModeling"]
+	path = GenerativeImageModeling
+	url = git@github.com:KHOUTAIBI/GenerativeImageModeling.git
+[submodule "HyperspectralImagingUnmixing"]
+	path = HyperspectralImagingUnmixing
+	url = git@github.com:KHOUTAIBI/HyperspectralImagingUnmixing.git
+[submodule "gpu_llm_flash-attention"]
+	path = gpu_llm_flash-attention
+	url = git@github.com:KHOUTAIBI/gpu_llm_flash-attention.git
+[submodule "MedicalImageAnalysis"]
+	path = MedicalImageAnalysis
+	url = git@github.com:KHOUTAIBI/MedicalImageAnalysis.git
