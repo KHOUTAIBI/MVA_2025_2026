@@ -13,3 +13,6 @@
 [submodule "MedicalImageAnalysis"]
 	path = MedicalImageAnalysis
 	url = git@github.com:KHOUTAIBI/MedicalImageAnalysis.git
+[submodule "timeseries-graph-learning"]
+	path = timeseries-graph-learning
+	url = git@github.com:KHOUTAIBI/timeseries-graph-learning.git
