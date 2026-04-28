@@ -22,3 +22,6 @@
 [submodule "AI-games"]
 	path = AI-games
 	url = git@github.com:KHOUTAIBI/AI-games.git
+[submodule "controlled-LLM-generation"]
+	path = controlled-LLM-generation
+	url = https://github.com/KHOUTAIBI/controlled-LLM-generation
