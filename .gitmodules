@@ -25,3 +25,6 @@
 [submodule "controlled-LLM-generation"]
 	path = controlled-LLM-generation
 	url = https://github.com/KHOUTAIBI/controlled-LLM-generation
+[submodule "LLM-kv-cache-LoRA-efficiency"]
+	path = LLM-kv-cache-LoRA-efficiency
+	url = https://github.com/KHOUTAIBI/LLM-kv-cache-LoRA-efficiency
